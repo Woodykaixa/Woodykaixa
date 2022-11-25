@@ -2,8 +2,8 @@
 
 ### About me
 
-- An undergraduate student at Beijing University of Technology
-- A web developer familiars TypeScript, React, and Node.js
+- Bachelor degree: Beijing University of Technology
+- A web developer familiars TypeScript, React, and Node.js, working at Bytedance Inc.
 - Ex-intern at [Lenovo Research](http://research.lenovo.com/webapp/view/index.html)
 - Interested in various fields: full-stack development, system softwares, reverse engineering, etc
 - Command & Conquer player
